@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: JosefinSlab-Light;
+    src: url(./assets/fonts/Josefin_Slab/JosefinSlab-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: JosefinSlab-bold;
+    src: url(./assets/fonts/Josefin_Slab/JosefinSlab-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: NotoSerifJP-light;
+    src: url(./assets/fonts/Noto_Serif_JP/NotoSerifJP-Light.otf) format('opentype');
+}
+@font-face {
+    font-family: NotoSerifJP-bold;
+    src: url(./assets/fonts/Noto_Serif_JP/NotoSerifJP-Bold.otf) format('opentype');
+}
+@font-face {
+    font-family: Raleway-Bold;
+    src: url(./assets/fonts/Raleway/Raleway-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(./assets/fonts/Raleway/Raleway-Medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: Raleway-Light;
+    src: url(./assets/fonts/Raleway/Raleway-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: Vidaloka;
+    src: url(./assets/fonts/Vidaloka/Vidaloka-Regular.ttf) format('truetype');
+}
